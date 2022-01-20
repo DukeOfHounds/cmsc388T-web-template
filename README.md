@@ -1,3 +1,5 @@
-# cmsc388T-web-template
+# DukeOfHounds.github.io
 
-Website Template for Project 3
+site link: 
+
+using cmsc388T-web-template from Project 3, I  personalized my first websit by changing the styles of various headers to new colors. 
