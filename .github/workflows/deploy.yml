@@ -21,9 +21,9 @@ jobs:
           script: |
             cd DukeOfHounds.github.io
             git pull
-            cp -r index.html  ../../pub/ -f
-            cp -R assets ../../pub -f
-            cp -R js ../../pub -f
-            cp -R css ../../pub -f
+            sudo cp -r index.html  ../../pub/ -f
+            sudo cp -R assets ../../pub -f
+            sudo cp -R js ../../pub -f
+            sudo cp -R css ../../pub -f
             
     
