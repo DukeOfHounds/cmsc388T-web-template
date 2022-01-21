@@ -19,5 +19,5 @@ jobs:
           port: ${{ secrets.PORT }}
           script: |
             unalias rm
-            rm -rf <DukeOfHounds.github.io>
+            rm -rf DukeOfHounds.github.io
  
