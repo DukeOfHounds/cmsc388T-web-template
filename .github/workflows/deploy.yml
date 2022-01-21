@@ -21,6 +21,6 @@ jobs:
           script: |
             cd DukeOfHounds.github.io
             git pull
-            /cp -f -r ./* ../../pub/
+            \cp -f -r ./* ../../pub/
             
     
