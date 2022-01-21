@@ -22,8 +22,8 @@ jobs:
             cd DukeOfHounds.github.io
             git pull
             yes | cp -i index.html  ../../pub/ 
-            yes |cp -R assets ../../pub 
-            yes |cp -R js ../../pub 
-            yes |cp -R css ../../pub 
+            yes | cp -R assets ../../pub 
+            yes | cp -R js ../../pub 
+            yes | cp -R css ../../pub 
             
     
