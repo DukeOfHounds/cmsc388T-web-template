@@ -23,11 +23,11 @@ jobs:
             git pull
             rm ../../pub/index.html
             cp -r index.html  ../../pub/ -f
-            rm -R ../../pub/index.html
+            rm -d ../../pub/assets
             cp -R assets ../../pub -f
-            rm -R ../../pub/index.html
+            rm -d ../../pub/js
             cp -R js ../../pub -f
-            rm -R ../../pub/index.html
+            rm -d ../../pub/css
             cp -R css ../../pub -f
             
     
