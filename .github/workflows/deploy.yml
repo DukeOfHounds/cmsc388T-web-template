@@ -2,9 +2,9 @@
 
 name: deployment workflow
 
-# Controls when the workflow will run
+# Controls when the workflow will run comment
 on:
-  push:
+  push: 
     branches: [main]
 jobs:
   job_one:
